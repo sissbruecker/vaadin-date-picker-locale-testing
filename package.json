@@ -1,0 +1,16 @@
+{
+  "name": "date-picker-comparison",
+  "version": "1.0.0",
+  "main": "index.js",
+  "license": "MIT",
+  "scripts": {
+    "start": "web-dev-server --node-resolve --open"
+  },
+  "dependencies": {
+    "@vaadin/date-picker": "23.3.0-alpha4",
+    "date-fns": "^2.29.3"
+  },
+  "devDependencies": {
+    "@web/dev-server": "^0.1.35"
+  }
+}
